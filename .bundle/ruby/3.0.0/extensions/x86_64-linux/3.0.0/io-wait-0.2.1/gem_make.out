@@ -1,0 +1,18 @@
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/io-wait-0.2.1/ext/io/wait
+/nix/store/nv8k6c8503cbs1z5j9x39bmg69f56xbm-ruby-3.0.3/bin/ruby -I /nix/store/nv8k6c8503cbs1z5j9x39bmg69f56xbm-ruby-3.0.3/lib/ruby/3.0.0 -r ./siteconf20220324-71-2v94gy.rb extconf.rb
+checking for rb_io_wait()... yes
+checking for sys/ioctl.h... yes
+checking for FIONREAD in sys/ioctl.h,sys/ioctl.h... yes
+creating Makefile
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/io-wait-0.2.1/ext/io/wait
+make DESTDIR\= clean
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/io-wait-0.2.1/ext/io/wait
+make DESTDIR\=
+compiling wait.c
+linking shared-object io/wait.so
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/io-wait-0.2.1/ext/io/wait
+make DESTDIR\= install
+/nix/store/jd1y449cf66yx5d1hwyjvc4562b1p1am-coreutils-9.0/bin/install -c -m 0755 wait.so ./.gem.20220324-71-wjeqzu/io

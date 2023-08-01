@@ -1,0 +1,16 @@
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
+/nix/store/nv8k6c8503cbs1z5j9x39bmg69f56xbm-ruby-3.0.3/bin/ruby -I /nix/store/nv8k6c8503cbs1z5j9x39bmg69f56xbm-ruby-3.0.3/lib/ruby/3.0.0 -r ./siteconf20220324-71-t5x6z1.rb extconf.rb
+creating Makefile
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
+make DESTDIR\= clean
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/debug-1.4.0/ext/debug
+make DESTDIR\= install
+/nix/store/jd1y449cf66yx5d1hwyjvc4562b1p1am-coreutils-9.0/bin/install -c -m 0755 debug.so ./.gem.20220324-71-sdddfh/debug

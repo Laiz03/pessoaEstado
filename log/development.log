@@ -1,0 +1,2649 @@
+Started GET "/" for 172.18.0.1 at 2022-08-20 16:17:53 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (4.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.8ms | Allocations: 710)
+Completed 200 OK in 85ms (Views: 13.6ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 73.158.81.129 at 2022-08-20 16:17:54 +0000
+Cannot render console from 73.158.81.129! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 10.7ms | Allocations: 389)
+Completed 200 OK in 17ms (Views: 15.3ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-08-21 12:26:17 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.1ms | Allocations: 710)
+Completed 200 OK in 15ms (Views: 6.5ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 176.196.88.171 at 2022-08-21 12:26:17 +0000
+Cannot render console from 176.196.88.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.8ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 1452)
+
+
+Started GET "/" for 174.49.113.141 at 2022-08-21 12:42:05 +0000
+Cannot render console from 174.49.113.141! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 322)
+
+
+Started GET "/" for 172.18.0.1 at 2022-08-21 19:16:41 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.5ms | Allocations: 710)
+Completed 200 OK in 15ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 73.81.152.195 at 2022-08-21 19:16:41 +0000
+Cannot render console from 73.81.152.195! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.9ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-08-25 19:15:36 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.6ms | Allocations: 710)
+Completed 200 OK in 20ms (Views: 8.3ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 172.18.0.1 at 2022-08-25 20:07:19 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.5ms | Allocations: 710)
+Completed 200 OK in 21ms (Views: 8.8ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 172.18.0.1 at 2022-08-26 18:33:31 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.5ms | Allocations: 710)
+Completed 200 OK in 14ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 99.7.63.17 at 2022-08-26 18:33:31 +0000
+Cannot render console from 99.7.63.17! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/admin" for 99.7.63.17 at 2022-08-26 18:34:39 +0000
+Cannot render console from 99.7.63.17! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/admin"):
+  
+Started GET "/" for 99.7.63.17 at 2022-08-26 18:35:09 +0000
+Cannot render console from 99.7.63.17! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 25)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 350)
+
+
+Started GET "/routes" for 99.7.63.17 at 2022-08-26 18:35:16 +0000
+Cannot render console from 99.7.63.17! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/routes"):
+  
+Started GET "/" for 99.7.63.17 at 2022-08-26 18:36:11 +0000
+Cannot render console from 99.7.63.17! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started GET "/" for 172.18.0.1 at 2022-08-27 11:37:00 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 710)
+Completed 200 OK in 15ms (Views: 5.9ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 109.255.25.196 at 2022-08-27 11:37:00 +0000
+Cannot render console from 109.255.25.196! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 109.255.25.196 at 2022-08-27 11:37:19 +0000
+Cannot render console from 109.255.25.196! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 318)
+
+
+Started GET "/" for 109.255.25.196 at 2022-08-27 11:37:21 +0000
+Cannot render console from 109.255.25.196! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for 109.255.25.196 at 2022-08-27 11:37:22 +0000
+Cannot render console from 109.255.25.196! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for 66.249.64.239 at 2022-08-27 12:16:18 +0000
+Cannot render console from 66.249.64.239! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | Allocations: 284)
+
+
+Started GET "/" for 172.18.0.1 at 2022-08-28 10:05:00 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (5.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.0ms | Allocations: 710)
+Completed 200 OK in 25ms (Views: 10.8ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 87.114.38.245 at 2022-08-28 10:05:01 +0000
+Cannot render console from 87.114.38.245! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-08-29 03:47:16 +0000
+Started GET "/" for 172.18.0.1 at 2022-08-29 03:47:16 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 5.5ms | Allocations: 748)
+Completed 200 OK in 28ms (Views: 14.3ms | ActiveRecord: 0.0ms | Allocations: 6782)
+
+
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.8ms | Allocations: 1639)
+Completed 200 OK in 35ms (Views: 17.7ms | ActiveRecord: 0.0ms | Allocations: 7998)
+
+
+Started GET "/" for 60.125.51.167 at 2022-08-29 03:47:16 +0000
+Cannot render console from 60.125.51.167! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 1408)
+
+
+Started GET "/" for 172.18.0.1 at 2022-08-30 10:43:43 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.0ms | Allocations: 710)
+Completed 200 OK in 16ms (Views: 7.5ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 74.15.144.161 at 2022-08-30 10:43:45 +0000
+Cannot render console from 74.15.144.161! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.9ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 74.15.144.161 at 2022-08-30 10:43:45 +0000
+Cannot render console from 74.15.144.161! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-08-30 13:17:33 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 710)
+Completed 200 OK in 14ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 170.84.184.190 at 2022-08-30 13:35:26 +0000
+Cannot render console from 170.84.184.190! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.7ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 1.8ms | Allocations: 1399)
+
+
+Started GET "/" for 172.18.0.1 at 2022-09-01 08:26:13 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.1ms | Allocations: 710)
+Completed 200 OK in 14ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 180.191.164.81 at 2022-09-01 08:26:13 +0000
+Cannot render console from 180.191.164.81! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-09-01 15:04:31 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (10.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.5ms | Allocations: 710)
+Completed 200 OK in 40ms (Views: 15.4ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/static/..%5c..%5c..%5cetc/passwd" for 176.196.88.171 at 2022-09-01 15:04:52 +0000
+Cannot render console from 176.196.88.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/static/..%5C..%5C..%5Cetc/passwd"):
+  
+Started GET "/static/..%5c..%5c..%5c..%5cetc/passwd" for 176.196.88.171 at 2022-09-01 15:04:53 +0000
+Cannot render console from 176.196.88.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/static/..%5C..%5C..%5C..%5Cetc/passwd"):
+  
+Started GET "/static/..%5c..%5c..%5c..%5c..%5cetc/passwd" for 176.196.88.171 at 2022-09-01 15:04:54 +0000
+Cannot render console from 176.196.88.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/static/..%5C..%5C..%5C..%5C..%5Cetc/passwd"):
+  
+Started GET "/static/..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd" for 176.196.88.171 at 2022-09-01 15:04:54 +0000
+Cannot render console from 176.196.88.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/static/..%5C..%5C..%5C..%5C..%5C..%5Cetc/passwd"):
+  
+Started GET "/static/..%5c..%5c..%5c..%5c..%5c..%5c..%5cetc/passwd" for 176.196.88.171 at 2022-09-01 15:04:55 +0000
+Cannot render console from 176.196.88.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/static/..%5C..%5C..%5C..%5C..%5C..%5C..%5Cetc/passwd"):
+  
+Started GET "/%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2e%2eetc/passwd" for 176.196.88.171 at 2022-09-01 15:04:56 +0000
+Cannot render console from 176.196.88.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2E%2Eetc/passwd"):
+  
+Started GET "/%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5cetc/passwd" for 176.196.88.171 at 2022-09-01 15:04:57 +0000
+Cannot render console from 176.196.88.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/%2E%2E%5C%2E%2E%5C%2E%2E%5C%2E%2E%5C%2E%2E%5C%2E%2E%5C%2E%2E%5C%2E%2E%5Cetc/passwd"):
+  
+Started GET "/.%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./etc/passwd" for 176.196.88.171 at 2022-09-01 15:04:58 +0000
+Cannot render console from 176.196.88.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/.%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./.%5C%5C./etc/passwd"):
+  
+Started GET "/..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5cetc/passwd" for 176.196.88.171 at 2022-09-01 15:04:59 +0000
+Cannot render console from 176.196.88.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5c..0x5cetc/passwd"):
+  
+Started GET "/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd" for 176.196.88.171 at 2022-09-01 15:05:00 +0000
+Cannot render console from 176.196.88.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/%C0%AE%C0%AE/etc/passwd"):
+  
+Started GET "/.%252e/.%252e/.%252e/.%252e/.%252e/.%252e/.%252e/etc/passwd" for 176.196.88.171 at 2022-09-01 15:05:01 +0000
+Cannot render console from 176.196.88.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/.%252e/.%252e/.%252e/.%252e/.%252e/.%252e/.%252e/etc/passwd"):
+  
+Started GET "/" for 172.18.0.1 at 2022-09-02 23:37:21 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 710)
+Completed 200 OK in 15ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 71.183.204.202 at 2022-09-02 23:37:22 +0000
+Cannot render console from 71.183.204.202! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.9ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-09-05 13:04:47 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.5ms | Allocations: 710)
+Completed 200 OK in 18ms (Views: 7.9ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 172.18.0.1 at 2022-09-06 16:00:39 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.0ms | Allocations: 710)
+Completed 200 OK in 22ms (Views: 8.8ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 76.64.22.180 at 2022-09-06 16:00:40 +0000
+Cannot render console from 76.64.22.180! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 389)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-09-07 12:37:47 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 710)
+Completed 200 OK in 15ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 173.16.220.205 at 2022-09-07 12:37:47 +0000
+Cannot render console from 173.16.220.205! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.9ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-09-18 13:19:57 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.8ms | Allocations: 710)
+Completed 200 OK in 18ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 139.5.108.71 at 2022-09-18 13:20:33 +0000
+Cannot render console from 139.5.108.71! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-09-19 07:12:57 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.3ms | Allocations: 710)
+Completed 200 OK in 31ms (Views: 17.4ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 66.249.73.89 at 2022-09-19 07:13:30 +0000
+Cannot render console from 66.249.73.89! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-09-22 07:09:35 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.2ms | Allocations: 710)
+Completed 200 OK in 25ms (Views: 9.0ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 107.122.157.80 at 2022-09-22 07:10:09 +0000
+Cannot render console from 107.122.157.80! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-09-29 00:19:54 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 50.0ms | Allocations: 710)
+Completed 200 OK in 66ms (Views: 55.3ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 136.152.143.225 at 2022-09-29 00:19:55 +0000
+Cannot render console from 136.152.143.225! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 389)
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-09-29 18:11:50 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 172.18.0.1 at 2022-09-29 18:11:50 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.4ms | Allocations: 618)
+Completed 200 OK in 29ms (Views: 14.9ms | ActiveRecord: 0.0ms | Allocations: 7254)
+
+
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.1ms | Allocations: 795)
+Completed 200 OK in 28ms (Views: 18.2ms | ActiveRecord: 0.0ms | Allocations: 7372)
+
+
+Started GET "/" for 216.177.189.133 at 2022-09-29 18:11:51 +0000
+Cannot render console from 216.177.189.133! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 1408)
+
+
+Started GET "/" for 172.58.5.155 at 2022-09-29 18:12:50 +0000
+Cannot render console from 172.58.5.155! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 22)
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms | Allocations: 317)
+
+
+Started GET "/" for 47.39.229.222 at 2022-09-29 18:28:08 +0000
+Cannot render console from 47.39.229.222! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.5ms | Allocations: 21)
+Completed 200 OK in 5ms (Views: 4.2ms | Allocations: 284)
+
+
+Started GET "/" for 174.49.113.141 at 2022-09-29 18:42:16 +0000
+Cannot render console from 174.49.113.141! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 21)
+Completed 200 OK in 2ms (Views: 1.8ms | Allocations: 376)
+
+
+Started GET "/" for 172.18.0.1 at 2022-09-30 16:40:41 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 710)
+Completed 200 OK in 16ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 132.188.4.21 at 2022-09-30 16:40:42 +0000
+Cannot render console from 132.188.4.21! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 162.248.71.69 at 2022-09-30 16:40:46 +0000
+Cannot render console from 162.248.71.69! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 318)
+
+
+Started GET "/" for 172.18.0.1 at 2022-10-04 17:18:30 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.7ms | Allocations: 710)
+Completed 200 OK in 18ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 172.18.0.1 at 2022-10-05 10:36:15 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.3ms | Allocations: 710)
+Completed 200 OK in 15ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 172.18.0.1 at 2022-10-05 16:32:51 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.6ms | Allocations: 710)
+Completed 200 OK in 16ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 187.190.91.17 at 2022-10-05 16:32:52 +0000
+Cannot render console from 187.190.91.17! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-10-09 18:26:56 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.0ms | Allocations: 710)
+Completed 200 OK in 19ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 172.18.0.1 at 2022-10-10 08:00:37 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (3.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.3ms | Allocations: 710)
+Completed 200 OK in 23ms (Views: 10.3ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 195.221.62.1 at 2022-10-10 08:00:38 +0000
+Cannot render console from 195.221.62.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 389)
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 195.221.62.1 at 2022-10-10 08:00:52 +0000
+Cannot render console from 195.221.62.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 318)
+
+
+Started GET "/" for 172.18.0.1 at 2022-10-14 10:21:57 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.5ms | Allocations: 710)
+Completed 200 OK in 17ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 172.18.0.1 at 2022-10-15 11:45:16 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.0ms | Allocations: 710)
+Completed 200 OK in 14ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started GET "/" for 89.146.94.16 at 2022-10-15 11:45:17 +0000
+Cannot render console from 89.146.94.16! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-10-16 16:06:53 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.7ms | Allocations: 710)
+Completed 200 OK in 20ms (Views: 8.6ms | ActiveRecord: 0.0ms | Allocations: 6347)
+
+
+Started GET "/" for 95.91.249.244 at 2022-10-16 16:07:32 +0000
+Cannot render console from 95.91.249.244! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started GET "/" for 172.18.0.1 at 2022-10-19 19:32:57 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (7.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.2ms | Allocations: 710)
+Completed 200 OK in 62ms (Views: 23.6ms | ActiveRecord: 0.0ms | Allocations: 6346)
+
+
+Started OPTIONS "*" for 172.18.0.1 at 2022-10-21 06:28:33 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 115.79.35.205 at 2022-10-21 06:28:34 +0000
+Cannot render console from 115.79.35.205! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.5ms | Allocations: 398)
+Completed 200 OK in 12ms (Views: 4.3ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.18.0.1 at 2022-10-21 17:27:08 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (6.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.18.0.1 at 2022-10-24 18:50:29 +0000
+Started OPTIONS "*" for 172.18.0.1 at 2022-10-24 18:50:29 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (7.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.18.0.1 at 2022-10-24 18:50:35 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.18.0.1 at 2022-10-24 18:51:34 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.18.0.1 at 2022-10-24 18:51:34 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.18.0.1 at 2022-10-24 18:51:37 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 179.255.41.79 at 2022-10-24 18:51:39 +0000
+Cannot render console from 179.255.41.79! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.4ms | Allocations: 394)
+Completed 200 OK in 13ms (Views: 4.4ms | ActiveRecord: 0.0ms | Allocations: 4036)
+
+
+Started OPTIONS "*" for 172.18.0.1 at 2022-10-26 19:14:31 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 49.36.106.5 at 2022-10-26 19:14:32 +0000
+Cannot render console from 49.36.106.5! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | Allocations: 398)
+Completed 200 OK in 17ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.18.0.1 at 2022-10-30 15:29:40 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.18.0.1 at 2022-10-30 19:13:37 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (8.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.18.0.1 at 2022-10-31 06:07:57 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 153.246.179.87 at 2022-10-31 06:08:19 +0000
+Cannot render console from 153.246.179.87! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 398)
+Completed 200 OK in 14ms (Views: 4.1ms | ActiveRecord: 0.0ms | Allocations: 4101)
+
+
+Started OPTIONS "*" for 172.18.0.1 at 2022-11-08 04:19:21 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 73.237.146.39 at 2022-11-08 04:19:21 +0000
+Cannot render console from 73.237.146.39! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 398)
+Completed 200 OK in 9ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.18.0.1 at 2022-11-08 19:06:28 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.18.0.1 at 2022-11-08 21:53:10 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 103.18.22.45 at 2022-11-08 21:53:11 +0000
+Cannot render console from 103.18.22.45! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | Allocations: 398)
+Completed 200 OK in 11ms (Views: 3.9ms | ActiveRecord: 0.0ms | Allocations: 4097)
+
+
+Started OPTIONS "*" for 172.18.0.1 at 2022-11-09 19:02:09 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (3.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 173.72.172.218 at 2022-11-09 19:02:09 +0000
+Cannot render console from 173.72.172.218! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 398)
+Completed 200 OK in 11ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.18.0.1 at 2022-11-09 23:23:41 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 107.11.159.99 at 2022-11-09 23:23:41 +0000
+Cannot render console from 107.11.159.99! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 398)
+Completed 200 OK in 8ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.18.0.1 at 2022-11-10 11:30:09 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 72.229.56.212 at 2022-11-10 11:30:09 +0000
+Cannot render console from 72.229.56.212! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.0ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started GET "/" for 138.68.21.155 at 2022-11-10 11:30:14 +0000
+Cannot render console from 138.68.21.155! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 1445)
+
+
+Started OPTIONS "*" for 172.18.0.1 at 2022-11-10 17:07:49 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 81.100.102.8 at 2022-11-10 17:07:49 +0000
+Cannot render console from 81.100.102.8! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 398)
+Completed 200 OK in 9ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started GET "/" for 213.86.153.247 at 2022-11-10 17:20:23 +0000
+Cannot render console from 213.86.153.247! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 3.2ms | Allocations: 1392)
+
+
+Started GET "/" for 31.20.246.153 at 2022-11-10 17:25:51 +0000
+Cannot render console from 31.20.246.153! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.8ms | Allocations: 314)
+
+
+Started OPTIONS "*" for 172.18.0.1 at 2022-11-12 22:39:58 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 5.14.6.178 at 2022-11-12 22:39:59 +0000
+Cannot render console from 5.14.6.178! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.18.0.1 at 2022-11-14 12:38:43 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 165.161.26.214 at 2022-11-14 12:39:25 +0000
+Cannot render console from 165.161.26.214! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 398)
+Completed 200 OK in 6ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.18.0.1 at 2022-11-15 01:38:16 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 117.56.163.18 at 2022-11-15 01:38:17 +0000
+Cannot render console from 117.56.163.18! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 398)
+Completed 200 OK in 7ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started GET "/" for 223.200.123.13 at 2022-11-15 01:39:10 +0000
+Cannot render console from 223.200.123.13! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms | Allocations: 1402)
+
+
+Started GET "/" for 205.169.39.63 at 2022-11-15 01:46:46 +0000
+Cannot render console from 205.169.39.63! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.7ms | Allocations: 315)
+
+
+Started OPTIONS "*" for 172.18.0.1 at 2022-11-17 09:42:00 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 113.35.251.98 at 2022-11-17 09:42:00 +0000
+Cannot render console from 113.35.251.98! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 4141)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-11-18 13:31:36 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 20.48.28.243 at 2022-11-18 13:31:36 +0000
+Cannot render console from 20.48.28.243! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 398)
+Completed 200 OK in 9ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-11-21 18:58:08 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 167.102.157.147 at 2022-11-21 18:58:08 +0000
+Cannot render console from 167.102.157.147! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.9ms | Allocations: 398)
+Completed 200 OK in 12ms (Views: 4.2ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-11-22 13:57:44 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 92.247.2.58 at 2022-11-22 13:58:28 +0000
+Cannot render console from 92.247.2.58! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 398)
+Completed 200 OK in 6ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-11-22 16:00:02 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.31.128.1 at 2022-11-24 11:54:34 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 83.236.198.218 at 2022-11-24 11:54:35 +0000
+Cannot render console from 83.236.198.218! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 398)
+Completed 200 OK in 7ms (Views: 2.3ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started GET "/" for 50.17.165.255 at 2022-11-24 12:00:29 +0000
+Cannot render console from 50.17.165.255! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.9ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 1445)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-11-25 13:54:46 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 71.167.190.69 at 2022-11-25 13:55:25 +0000
+Cannot render console from 71.167.190.69! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.0ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started GET "/" for 90.71.165.49 at 2022-11-26 16:56:39 +0000
+Cannot render console from 90.71.165.49! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.9ms | Allocations: 710)
+Completed 200 OK in 15ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 6348)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-11-29 23:19:02 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 179.57.84.246 at 2022-11-29 23:19:02 +0000
+Cannot render console from 179.57.84.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 398)
+Completed 200 OK in 11ms (Views: 4.2ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started GET "/" for 179.57.84.246 at 2022-11-29 23:19:11 +0000
+Cannot render console from 179.57.84.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 1402)
+
+
+Started GET "/" for 179.57.84.246 at 2022-11-29 23:19:13 +0000
+Cannot render console from 179.57.84.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 319)
+
+
+Started GET "/" for 179.57.84.246 at 2022-11-29 23:19:14 +0000
+Cannot render console from 179.57.84.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 292)
+
+
+Started GET "/" for 179.57.84.246 at 2022-11-29 23:19:19 +0000
+Cannot render console from 179.57.84.246! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 287)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-11-30 07:58:43 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 172.58.58.162 at 2022-11-30 07:59:10 +0000
+Cannot render console from 172.58.58.162! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 398)
+Completed 200 OK in 7ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started GET "/" for 122.172.87.47 at 2022-11-30 07:59:23 +0000
+Cannot render console from 122.172.87.47! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 1402)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-12-01 10:43:28 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 34.83.126.229 at 2022-12-01 10:43:28 +0000
+Cannot render console from 34.83.126.229! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 398)
+Completed 200 OK in 7ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-12-01 23:40:21 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 205.251.233.53 at 2022-12-01 23:40:38 +0000
+Cannot render console from 205.251.233.53! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 398)
+Completed 200 OK in 9ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-12-03 15:49:33 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 74.221.181.177 at 2022-12-03 15:49:33 +0000
+Cannot render console from 74.221.181.177! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 398)
+Completed 200 OK in 9ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-12-03 18:12:36 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 187.19.245.174 at 2022-12-03 18:13:05 +0000
+Cannot render console from 187.19.245.174! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.9ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started GET "/" for 43.245.86.58 at 2022-12-04 05:40:08 +0000
+Cannot render console from 43.245.86.58! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | Allocations: 710)
+Completed 200 OK in 14ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 6348)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-12-06 10:12:14 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (7.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 136.226.252.253 at 2022-12-06 10:13:09 +0000
+Cannot render console from 136.226.252.253! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 398)
+Completed 200 OK in 11ms (Views: 4.1ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-12-12 10:49:15 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 217.11.65.83 at 2022-12-12 10:49:16 +0000
+Cannot render console from 10.67.192.2! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 67.170.192.167 at 2022-12-12 10:49:16 +0000
+Cannot render console from 172.28.197.139! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | Allocations: 427)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | Allocations: 431)
+Completed 200 OK in 11ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 4574)
+
+
+Completed 200 OK in 13ms (Views: 5.1ms | ActiveRecord: 0.0ms | Allocations: 5285)
+
+
+Started GET "/" for 67.170.192.167 at 2022-12-12 11:23:11 +0000
+Cannot render console from 172.28.197.139! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started OPTIONS "*" for 172.31.128.1 at 2022-12-12 19:18:09 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (3.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 98.202.250.165 at 2022-12-12 19:18:10 +0000
+Cannot render console from 10.68.0.132! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.6ms | Allocations: 398)
+Completed 200 OK in 15ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-12-15 10:40:52 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 151.227.154.240 at 2022-12-15 10:40:53 +0000
+Cannot render console from 10.67.192.2! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-12-24 09:43:34 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 46.32.120.13 at 2022-12-24 09:43:35 +0000
+Cannot render console from 172.28.192.182! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 398)
+Completed 200 OK in 16ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2022-12-27 22:56:40 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 187.250.236.155 at 2022-12-27 22:56:40 +0000
+Cannot render console from 10.68.0.2! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 398)
+Completed 200 OK in 8ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-01 05:42:11 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 189.40.78.69 at 2023-01-01 05:42:53 +0000
+Cannot render console from 172.28.192.182! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 398)
+Completed 200 OK in 14ms (Views: 7.4ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-02 02:03:41 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 220.253.96.43 at 2023-01-02 02:03:41 +0000
+Cannot render console from 172.28.197.186! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 398)
+Completed 200 OK in 9ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-04 17:45:34 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 77.54.204.61 at 2023-01-04 17:46:25 +0000
+Cannot render console from 10.67.192.3! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 398)
+Completed 200 OK in 9ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-05 18:38:36 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 190.42.241.61 at 2023-01-05 18:38:37 +0000
+Cannot render console from 172.28.197.190! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 398)
+Completed 200 OK in 11ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-05 22:37:22 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 52.94.133.131 at 2023-01-05 22:37:22 +0000
+Cannot render console from 172.28.192.186! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 398)
+Completed 200 OK in 11ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-08 12:59:18 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 212.13.23.145 at 2023-01-08 12:59:18 +0000
+Cannot render console from 10.67.192.2! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 398)
+Completed 200 OK in 8ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 4097)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-11 17:56:18 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 179.98.199.16 at 2023-01-11 17:56:19 +0000
+Cannot render console from 172.28.192.192! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-11 19:15:41 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 201.68.247.164 at 2023-01-11 19:15:41 +0000
+Cannot render console from 172.28.192.190! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 398)
+Completed 200 OK in 8ms (Views: 2.6ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-14 16:07:19 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 179.14.124.22 at 2023-01-14 16:07:20 +0000
+Cannot render console from 10.66.131.149! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 398)
+Completed 200 OK in 6ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 4097)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-16 06:17:43 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-16 16:40:07 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (4.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 194.230.161.228 at 2023-01-16 16:40:08 +0000
+Cannot render console from 10.66.128.5! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 398)
+Completed 200 OK in 8ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-20 13:34:27 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 91.165.149.164 at 2023-01-20 13:35:06 +0000
+Cannot render console from 10.66.128.2! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 398)
+Completed 200 OK in 8ms (Views: 2.6ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-23 19:08:49 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (3.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 130.166.192.184 at 2023-01-23 19:08:49 +0000
+Cannot render console from 10.66.193.130! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 398)
+Completed 200 OK in 11ms (Views: 4.7ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started GET "/" for 205.169.39.222 at 2023-01-23 21:33:09 +0000
+Cannot render console from 10.66.193.130! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.1ms | Allocations: 710)
+Completed 200 OK in 26ms (Views: 9.2ms | ActiveRecord: 0.0ms | Allocations: 6348)
+
+
+Started GET "/" for 205.169.39.222 at 2023-01-23 21:33:12 +0000
+Cannot render console from 10.66.194.13! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 1409)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-24 21:49:23 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 93.103.63.210 at 2023-01-24 21:49:24 +0000
+Cannot render console from 10.66.192.131! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | Allocations: 398)
+Completed 200 OK in 11ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started GET "/" for 109.239.188.5 at 2023-01-24 21:50:57 +0000
+Cannot render console from 10.66.128.3! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 389)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms | Allocations: 1402)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-24 23:55:34 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 207.46.13.144 at 2023-01-25 00:09:33 +0000
+Cannot render console from 10.66.192.131! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 398)
+Completed 200 OK in 12ms (Views: 4.4ms | Allocations: 4121)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-25 01:57:59 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 172.58.5.14 at 2023-01-25 01:58:00 +0000
+Cannot render console from 10.66.129.2! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 398)
+Completed 200 OK in 9ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-25 05:31:07 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 104.198.21.15 at 2023-01-25 05:31:07 +0000
+Cannot render console from 10.66.128.132! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 398)
+Completed 200 OK in 13ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started GET "/" for 205.169.39.63 at 2023-01-25 05:32:23 +0000
+Cannot render console from 10.66.131.155! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 1402)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-27 03:40:20 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 190.114.38.87 at 2023-01-27 03:40:20 +0000
+Cannot render console from 10.66.130.5! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-01-27 11:57:52 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (3.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 83.44.197.231 at 2023-01-27 11:57:52 +0000
+Cannot render console from 10.66.193.2! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 36.7ms | Allocations: 398)
+Completed 200 OK in 49ms (Views: 40.0ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-02-01 05:13:17 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.31.128.1 at 2023-02-01 06:23:07 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (3.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 126.109.254.18 at 2023-02-01 06:23:07 +0000
+Cannot render console from 10.66.192.2! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 398)
+Completed 200 OK in 14ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 4097)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-02-04 09:47:54 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (4.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 202.88.147.197 at 2023-02-04 09:47:54 +0000
+Cannot render console from 10.66.194.24! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.0ms | Allocations: 398)
+Completed 200 OK in 19ms (Views: 4.5ms | ActiveRecord: 0.0ms | Allocations: 4097)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-02-04 17:36:46 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 66.249.66.81 at 2023-02-04 17:37:01 +0000
+Cannot render console from 10.66.128.132! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.0ms | Allocations: 398)
+Completed 200 OK in 14ms (Views: 4.3ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-02-06 11:39:09 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.31.128.1 at 2023-02-06 19:14:56 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (3.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 165.225.120.109 at 2023-02-06 19:14:56 +0000
+Cannot render console from 10.66.194.23! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.9ms | Allocations: 398)
+Completed 200 OK in 11ms (Views: 3.7ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-02-10 09:49:15 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 182.72.252.34 at 2023-02-10 09:49:15 +0000
+Cannot render console from 10.66.194.4! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 398)
+Completed 200 OK in 9ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-02-15 04:36:16 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 173.239.70.194 at 2023-02-15 04:36:16 +0000
+Cannot render console from 10.66.193.135! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 3.7ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started GET "/" for 173.239.70.194 at 2023-02-15 04:58:06 +0000
+Cannot render console from 10.66.193.134! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 173.239.70.194 at 2023-02-15 22:17:07 +0000
+Cannot render console from 10.66.192.4! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started OPTIONS "*" for 172.31.128.1 at 2023-02-19 14:19:56 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.31.128.1 at 2023-02-21 22:57:13 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 143.0.165.215 at 2023-02-21 22:57:13 +0000
+Cannot render console from 10.66.192.3! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-02-24 03:34:06 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 136.243.228.197 at 2023-02-24 03:34:07 +0000
+Cannot render console from 136.243.228.197! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 398)
+Completed 200 OK in 12ms (Views: 3.7ms | ActiveRecord: 0.0ms | Allocations: 4096)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-02-26 02:05:26 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 68.195.109.139 at 2023-02-26 02:06:21 +0000
+Cannot render console from 68.195.109.139! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-02-27 14:17:20 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 34.67.215.48 at 2023-02-27 23:48:46 +0000
+Cannot render console from 34.67.215.48! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 12.2ms | Allocations: 710)
+Completed 200 OK in 68ms (Views: 56.9ms | ActiveRecord: 0.0ms | Allocations: 6350)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-02-28 05:33:22 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 172.58.63.6 at 2023-02-28 05:33:59 +0000
+Cannot render console from 172.58.63.6! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.1ms | Allocations: 398)
+Completed 200 OK in 11ms (Views: 4.0ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-02 12:03:55 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 52.167.144.58 at 2023-03-02 12:03:55 +0000
+Cannot render console from 52.167.144.58! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 398)
+Completed 200 OK in 8ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 4141)
+
+
+Started GET "/" for 152.231.217.221 at 2023-03-02 16:11:20 +0000
+Cannot render console from 152.231.217.221! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.9ms | Allocations: 710)
+Completed 200 OK in 62ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 6348)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-02 17:59:20 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 52.167.144.58 at 2023-03-02 17:59:20 +0000
+Cannot render console from 52.167.144.58! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 398)
+Completed 200 OK in 57ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 4140)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-04 10:17:24 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 89.154.71.2 at 2023-03-04 10:17:24 +0000
+Cannot render console from 89.154.71.2! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.9ms | Allocations: 398)
+Completed 200 OK in 12ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-07 16:55:52 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 64.222.212.198 at 2023-03-07 16:55:53 +0000
+Cannot render console from 64.222.212.198! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 398)
+Completed 200 OK in 9ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 4097)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-09 00:24:20 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 72.69.213.233 at 2023-03-09 00:24:20 +0000
+Cannot render console from 72.69.213.233! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.6ms | Allocations: 398)
+Completed 200 OK in 14ms (Views: 5.6ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-09 08:36:41 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 74.208.181.183 at 2023-03-09 08:36:41 +0000
+Cannot render console from 74.208.181.183! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.8ms | Allocations: 398)
+Completed 200 OK in 9ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 4095)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-10 06:35:50 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (8.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 52.167.144.86 at 2023-03-10 06:35:50 +0000
+Cannot render console from 52.167.144.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 398)
+Completed 200 OK in 9ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 4141)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-10 14:27:11 +0000
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-10 14:27:11 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 65.154.226.167 at 2023-03-10 14:27:11 +0000
+Cannot render console from 65.154.226.167! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 65.154.226.171 at 2023-03-10 14:27:11 +0000
+Cannot render console from 65.154.226.171! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.3ms | Allocations: 832)
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 428)
+Completed 200 OK in 11ms (Views: 5.3ms | ActiveRecord: 0.0ms | Allocations: 4524)
+
+
+Completed 200 OK in 13ms (Views: 4.8ms | ActiveRecord: 0.0ms | Allocations: 4929)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-11 08:36:47 +0000
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-11 08:36:47 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 205.169.39.136 at 2023-03-11 08:36:48 +0000
+Cannot render console from 205.169.39.136! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 205.169.39.86 at 2023-03-11 08:36:48 +0000
+Cannot render console from 205.169.39.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 424)
+Completed 200 OK in 10ms (Views: 4.4ms | ActiveRecord: 0.0ms | Allocations: 4525)
+
+
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.5ms | Allocations: 425)
+Completed 200 OK in 13ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 5330)
+
+
+Started GET "/" for 205.169.39.136 at 2023-03-11 08:36:52 +0000
+Cannot render console from 205.169.39.136! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.9ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 1402)
+
+
+Started GET "/" for 205.169.39.86 at 2023-03-11 08:36:59 +0000
+Cannot render console from 205.169.39.86! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 21)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 310)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-12 23:58:30 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 76.157.128.217 at 2023-03-12 23:58:30 +0000
+Cannot render console from 76.157.128.217! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.9ms | Allocations: 398)
+Completed 200 OK in 11ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-13 04:19:51 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 65.154.226.166 at 2023-03-13 04:19:51 +0000
+Cannot render console from 65.154.226.166! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 398)
+Completed 200 OK in 8ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 4097)
+
+
+Started GET "/" for 205.169.39.180 at 2023-03-13 04:20:51 +0000
+Cannot render console from 205.169.39.180! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 1402)
+
+
+Started GET "/" for 205.169.39.180 at 2023-03-13 04:20:54 +0000
+Cannot render console from 205.169.39.180! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.1ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 318)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-15 00:12:54 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 24.80.179.3 at 2023-03-15 00:13:51 +0000
+Cannot render console from 24.80.179.3! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 398)
+Completed 200 OK in 7ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-15 07:03:06 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-17 06:09:10 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 205.169.39.106 at 2023-03-17 06:09:10 +0000
+Cannot render console from 205.169.39.106! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started GET "/" for 205.169.39.106 at 2023-03-17 06:09:14 +0000
+Cannot render console from 205.169.39.106! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 389)
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 1402)
+
+
+Started GET "/" for 40.77.167.140 at 2023-03-17 07:06:53 +0000
+Cannot render console from 40.77.167.140! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-23 18:13:46 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (3.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 207.46.13.218 at 2023-03-23 18:13:47 +0000
+Cannot render console from 207.46.13.218! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.2ms | Allocations: 398)
+Completed 200 OK in 16ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 4141)
+
+
+Started GET "/" for 142.184.180.57 at 2023-03-23 18:49:24 +0000
+Cannot render console from 142.184.180.57! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.0ms | Allocations: 389)
+Completed 200 OK in 20ms (Views: 15.8ms | Allocations: 1394)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-25 18:49:07 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 207.46.13.218 at 2023-03-25 18:49:07 +0000
+Cannot render console from 207.46.13.218! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 398)
+Completed 200 OK in 9ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 4141)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-26 03:37:10 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 136.243.228.197 at 2023-03-26 03:37:10 +0000
+Cannot render console from 136.243.228.197! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 398)
+Completed 200 OK in 11ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 4093)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-26 18:47:48 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 207.46.13.218 at 2023-03-26 18:47:48 +0000
+Cannot render console from 207.46.13.218! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 4.0ms | Allocations: 398)
+Completed 200 OK in 16ms (Views: 8.6ms | ActiveRecord: 0.0ms | Allocations: 4141)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-29 12:22:06 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 207.46.13.218 at 2023-03-29 12:22:06 +0000
+Cannot render console from 207.46.13.218! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 4141)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-29 16:55:10 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 207.46.13.218 at 2023-03-29 16:55:11 +0000
+Cannot render console from 207.46.13.218! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 398)
+Completed 200 OK in 8ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 4141)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-30 02:44:59 +0000
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-30 02:44:59 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 66.249.69.136 at 2023-03-30 02:44:59 +0000
+Cannot render console from 66.249.69.136! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 395)
+Completed 200 OK in 10ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 4135)
+
+
+Started GET "/" for 191.102.224.198 at 2023-03-30 02:45:00 +0000
+Cannot render console from 191.102.224.198! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 1443)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-30 07:31:11 +0000
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-30 07:31:11 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 66.249.69.136 at 2023-03-30 07:31:11 +0000
+Cannot render console from 66.249.69.136! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started GET "/" for 190.240.6.134 at 2023-03-30 07:31:11 +0000
+Cannot render console from 190.240.6.134! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 830)
+Completed 200 OK in 8ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 4588)
+
+
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 189)
+Completed 200 OK in 10ms (Views: 4.1ms | ActiveRecord: 0.0ms | Allocations: 5396)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-03-30 14:38:41 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 207.46.13.218 at 2023-03-30 14:38:42 +0000
+Cannot render console from 207.46.13.218! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.4ms | Allocations: 398)
+Completed 200 OK in 8ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 4141)
+
+
+Started GET "/" for 172.225.112.175 at 2023-03-30 15:24:46 +0000
+Cannot render console from 172.225.112.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 3.1ms | Allocations: 1394)
+
+
+Started GET "/" for 172.225.112.175 at 2023-03-30 15:25:19 +0000
+Cannot render console from 172.225.112.175! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started OPTIONS "*" for 172.31.128.1 at 2023-04-03 00:02:58 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 207.46.13.218 at 2023-04-03 00:02:59 +0000
+Cannot render console from 207.46.13.218! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 398)
+Completed 200 OK in 12ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 4141)
+
+
+Started OPTIONS "*" for 172.31.128.1 at 2023-04-04 01:04:37 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 207.46.13.218 at 2023-04-04 01:04:37 +0000
+Cannot render console from 207.46.13.218! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 398)
+Completed 200 OK in 7ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 4141)
+
+
+Started GET "/" for 71.50.77.118 at 2023-04-04 14:07:54 +0000
+Cannot render console from 71.50.77.118! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.6ms | Allocations: 712)
+Completed 200 OK in 16ms (Views: 7.8ms | ActiveRecord: 0.0ms | Allocations: 6393)
+
+
+Started GET "/" for 71.50.77.118 at 2023-04-04 14:07:55 +0000
+Cannot render console from 71.50.77.118! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.1ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 1411)
+
+
+Started GET "/" for 207.46.13.218 at 2023-04-04 15:05:54 +0000
+Cannot render console from 207.46.13.218! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 22)
+Completed 200 OK in 1ms (Views: 0.9ms | Allocations: 403)
+
+
+Started OPTIONS "*" for 172.31.196.1 at 2023-04-05 01:41:48 +0000
+Cannot render console from 172.31.196.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 207.46.13.218 at 2023-04-05 01:41:48 +0000
+Cannot render console from 207.46.13.218! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.3ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 4141)
+
+
+Started GET "/" for 207.46.13.218 at 2023-04-06 01:48:10 +0000
+Cannot render console from 207.46.13.218! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.0ms | Allocations: 712)
+Completed 200 OK in 14ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 6393)
+
+
+Started GET "/" for 67.169.141.74 at 2023-04-06 23:01:06 +0000
+Cannot render console from 67.169.141.74! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 3.7ms | Allocations: 712)
+Completed 200 OK in 22ms (Views: 10.6ms | ActiveRecord: 0.0ms | Allocations: 6393)
+
+
+Started OPTIONS "*" for 172.31.196.1 at 2023-04-07 11:40:10 +0000
+Cannot render console from 172.31.196.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 157.55.39.253 at 2023-04-07 11:40:10 +0000
+Cannot render console from 157.55.39.253! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.6ms | Allocations: 398)
+Completed 200 OK in 9ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 4140)
+
+
+Started OPTIONS "*" for 172.31.196.1 at 2023-04-07 17:40:34 +0000
+Cannot render console from 172.31.196.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 66.249.68.15 at 2023-04-07 17:40:41 +0000
+Cannot render console from 66.249.68.15! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.7ms | Allocations: 398)
+Completed 200 OK in 10ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 4098)
+
+
+Started GET "/" for 66.249.68.15 at 2023-04-07 18:11:31 +0000
+Cannot render console from 66.249.68.15! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Started OPTIONS "*" for 172.31.128.1 at 2023-04-24 07:16:09 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 40.77.167.212 at 2023-04-24 07:16:10 +0000
+Cannot render console from 40.77.167.212! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 398)
+Completed 200 OK in 7ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 4141)
+
+
+Started GET "/" for 20.191.45.212 at 2023-05-13 15:31:18 +0000
+Cannot render console from 20.191.45.212! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.4ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.1ms | Allocations: 712)
+Completed 200 OK in 13ms (Views: 5.7ms | ActiveRecord: 0.0ms | Allocations: 6393)
+
+
+Started GET "/" for 86.227.205.212 at 2023-05-13 15:31:22 +0000
+Cannot render console from 86.227.205.212! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.2ms | Allocations: 389)
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 1411)
+
+
+Started OPTIONS "*" for 172.31.196.1 at 2023-05-17 23:35:50 +0000
+Cannot render console from 172.31.196.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.5ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started OPTIONS "*" for 172.31.128.1 at 2023-05-18 14:29:33 +0000
+Cannot render console from 172.31.128.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 179.93.181.229 at 2023-05-18 14:29:34 +0000
+Cannot render console from 179.93.181.229! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.9ms | Allocations: 395)
+Completed 200 OK in 11ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 4502)
+
+
+Started GET "/" for 66.99.209.2 at 2023-05-18 14:34:59 +0000
+Cannot render console from 66.99.209.2! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 1.0ms | Allocations: 389)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms | Allocations: 1402)
+
+
+  [1m[35m (2.6ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[35m (3.9ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (1.6ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreatePessoas (20230519155737)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "pessoas" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "nome" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20230519155737"]]
+  [1m[36mTRANSACTION (3.7ms)[0m  [1m[36mcommit transaction[0m
+Migrating to CreateEstados (20230519155800)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "estados" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "nome" varchar, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20230519155800"]]
+  [1m[36mTRANSACTION (2.8ms)[0m  [1m[36mcommit transaction[0m
+Migrating to AddEstadoToPessoa (20230519155829)
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = ON[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.3ms)[0m  [1m[35mCREATE TEMPORARY TABLE "apessoas" ("id" integer NOT NULL PRIMARY KEY, "nome" varchar DEFAULT NULL, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[32mINSERT INTO "apessoas" ("id","nome","created_at","updated_at")
+                     SELECT "id","nome","created_at","updated_at" FROM "pessoas"[0m
+  [1m[35m (0.4ms)[0m  [1m[35mDROP TABLE "pessoas"[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "pessoas" ("id" integer NOT NULL PRIMARY KEY, "nome" varchar DEFAULT NULL, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL, "estado_id" integer NOT NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[32mINSERT INTO "pessoas" ("id","nome","created_at","updated_at")
+                     SELECT "id","nome","created_at","updated_at" FROM "apessoas"[0m
+  [1m[35m (0.1ms)[0m  [1m[35mDROP TABLE "apessoas"[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = 0[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_pessoas_on_estado_id" ON "pessoas" ("estado_id")[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA defer_foreign_keys = ON[0m
+  [1m[35m (0.0ms)[0m  [1m[35mPRAGMA foreign_keys = OFF[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TEMPORARY TABLE "apessoas" ("id" integer NOT NULL PRIMARY KEY, "nome" varchar DEFAULT NULL, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL, "estado_id" integer NOT NULL)[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "tindex_apessoas_on_estado_id" ON "apessoas" ("estado_id")[0m
+  [1m[35m (0.0ms)[0m  [1m[32mINSERT INTO "apessoas" ("id","nome","created_at","updated_at","estado_id")
+                     SELECT "id","nome","created_at","updated_at","estado_id" FROM "pessoas"[0m
+  [1m[35m (0.1ms)[0m  [1m[35mDROP TABLE "pessoas"[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE TABLE "pessoas" ("id" integer NOT NULL PRIMARY KEY, "nome" varchar DEFAULT NULL, "created_at" datetime(6) NOT NULL, "updated_at" datetime(6) NOT NULL, "estado_id" integer NOT NULL, CONSTRAINT "fk_rails_b1cc02f8f9"
+FOREIGN KEY ("estado_id")
+  REFERENCES "estados" ("id")
+)[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE INDEX "index_pessoas_on_estado_id" ON "pessoas" ("estado_id")[0m
+  [1m[35m (0.2ms)[0m  [1m[32mINSERT INTO "pessoas" ("id","nome","created_at","updated_at","estado_id")
+                     SELECT "id","nome","created_at","updated_at","estado_id" FROM "apessoas"[0m
+  [1m[35m (0.2ms)[0m  [1m[35mDROP TABLE "apessoas"[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA defer_foreign_keys = 0[0m
+  [1m[35m (0.1ms)[0m  [1m[35mPRAGMA foreign_keys = 1[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20230519155829"]]
+  [1m[36mTRANSACTION (5.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Create (0.4ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2023-05-19 15:58:38.597918"], ["updated_at", "2023-05-19 15:58:38.597918"]]
+  [1m[36mTRANSACTION (3.4ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/" for 45.176.58.59 at 2023-05-19 16:03:34 +0000
+Cannot render console from 45.176.58.59! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.7ms | Allocations: 817)
+Completed 200 OK in 21ms (Views: 8.7ms | ActiveRecord: 0.0ms | Allocations: 7695)
+
+
+Started GET "/estados" for 45.176.58.59 at 2023-05-19 16:03:44 +0000
+Cannot render console from 45.176.58.59! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by EstadosController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering estados/index.html.erb within layouts/application
+  [1m[36mEstado Load (0.2ms)[0m  [1m[34mSELECT "estados".* FROM "estados"[0m
+  ↳ app/views/estados/index.html.erb:6
+  Rendered estados/index.html.erb within layouts/application (Duration: 5.2ms | Allocations: 1373)
+  Rendered layout layouts/application.html.erb (Duration: 685.7ms | Allocations: 79299)
+Completed 200 OK in 691ms (Views: 687.4ms | ActiveRecord: 0.2ms | Allocations: 81432)
+
+
+Started GET "/estados" for 177.91.160.134 at 2023-05-19 16:03:46 +0000
+Cannot render console from 177.91.160.134! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by EstadosController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering estados/index.html.erb within layouts/application
+  [1m[36mEstado Load (0.1ms)[0m  [1m[34mSELECT "estados".* FROM "estados"[0m
+  ↳ app/views/estados/index.html.erb:6
+  Rendered estados/index.html.erb within layouts/application (Duration: 1.7ms | Allocations: 653)
+  Rendered layout layouts/application.html.erb (Duration: 3.7ms | Allocations: 1638)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.1ms | Allocations: 1998)
+
+
+Started GET "/estados/new" for 45.176.58.59 at 2023-05-19 16:03:48 +0000
+Cannot render console from 45.176.58.59! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by EstadosController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering estados/new.html.erb within layouts/application
+  Rendered estados/_form.html.erb (Duration: 19.3ms | Allocations: 4993)
+  Rendered estados/new.html.erb within layouts/application (Duration: 20.9ms | Allocations: 5370)
+  Rendered layout layouts/application.html.erb (Duration: 23.6ms | Allocations: 6442)
+Completed 200 OK in 34ms (Views: 24.7ms | ActiveRecord: 0.6ms | Allocations: 11112)
+
+
+Started GET "/estados/new" for 186.192.17.132 at 2023-05-19 16:03:51 +0000
+Cannot render console from 186.192.17.132! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by EstadosController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering estados/new.html.erb within layouts/application
+  Rendered estados/_form.html.erb (Duration: 4.3ms | Allocations: 578)
+  Rendered estados/new.html.erb within layouts/application (Duration: 6.0ms | Allocations: 677)
+  Rendered layout layouts/application.html.erb (Duration: 7.7ms | Allocations: 1637)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms | Allocations: 2011)
+
+
+Started POST "/estados" for 45.176.58.59 at 2023-05-19 16:03:55 +0000
+Cannot render console from 45.176.58.59! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by EstadosController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "estado"=>{"nome"=>"Pernambuco"}, "commit"=>"Create Estado"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/estados_controller.rb:27:in `block in create'
+  [1m[36mEstado Create (0.4ms)[0m  [1m[32mINSERT INTO "estados" ("nome", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["nome", "Pernambuco"], ["created_at", "2023-05-19 16:03:55.424718"], ["updated_at", "2023-05-19 16:03:55.424718"]]
+  ↳ app/controllers/estados_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (7.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/estados_controller.rb:27:in `block in create'
+Redirected to https://pessoaestado.laizoliveira.repl.co/estados/1
+Completed 302 Found in 15ms (ActiveRecord: 7.7ms | Allocations: 3770)
+
+
+Started GET "/estados/1" for 45.176.58.59 at 2023-05-19 16:03:55 +0000
+Cannot render console from 45.176.58.59! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by EstadosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEstado Load (0.3ms)[0m  [1m[34mSELECT "estados".* FROM "estados" WHERE "estados"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/estados_controller.rb:63:in `set_estado'
+  Rendering layout layouts/application.html.erb
+  Rendering estados/show.html.erb within layouts/application
+  Rendered estados/_estado.html.erb (Duration: 1.7ms | Allocations: 222)
+  Rendered estados/show.html.erb within layouts/application (Duration: 8.6ms | Allocations: 1522)
+  Rendered layout layouts/application.html.erb (Duration: 11.8ms | Allocations: 2571)
+Completed 200 OK in 49ms (Views: 21.1ms | ActiveRecord: 0.3ms | Allocations: 5609)
+
+
+Started GET "/estados/1" for 177.190.119.6 at 2023-05-19 16:03:58 +0000
+Cannot render console from 177.190.119.6! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by EstadosController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEstado Load (0.2ms)[0m  [1m[34mSELECT "estados".* FROM "estados" WHERE "estados"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/estados_controller.rb:63:in `set_estado'
+  Rendering layout layouts/application.html.erb
+  Rendering estados/show.html.erb within layouts/application
+  Rendered estados/_estado.html.erb (Duration: 0.1ms | Allocations: 21)
+  Rendered estados/show.html.erb within layouts/application (Duration: 1.5ms | Allocations: 423)
+  Rendered layout layouts/application.html.erb (Duration: 3.7ms | Allocations: 1376)
+Completed 200 OK in 6ms (Views: 4.4ms | ActiveRecord: 0.2ms | Allocations: 2278)
+
+
+Started GET "/pessoas" for 45.176.58.59 at 2023-05-19 16:04:02 +0000
+Cannot render console from 45.176.58.59! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PessoasController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pessoas/index.html.erb within layouts/application
+  [1m[36mPessoa Load (0.2ms)[0m  [1m[34mSELECT "pessoas".* FROM "pessoas"[0m
+  ↳ app/views/pessoas/index.html.erb:6
+  Rendered pessoas/index.html.erb within layouts/application (Duration: 8.4ms | Allocations: 1304)
+  Rendered layout layouts/application.html.erb (Duration: 12.3ms | Allocations: 2446)
+Completed 200 OK in 46ms (Views: 26.9ms | ActiveRecord: 0.2ms | Allocations: 5893)
+
+
+Started GET "/pessoas" for 187.94.208.133 at 2023-05-19 16:04:04 +0000
+Cannot render console from 187.94.208.133! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PessoasController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pessoas/index.html.erb within layouts/application
+  [1m[36mPessoa Load (0.1ms)[0m  [1m[34mSELECT "pessoas".* FROM "pessoas"[0m
+  ↳ app/views/pessoas/index.html.erb:6
+  Rendered pessoas/index.html.erb within layouts/application (Duration: 4.8ms | Allocations: 646)
+  Rendered layout layouts/application.html.erb (Duration: 6.7ms | Allocations: 1635)
+Completed 200 OK in 10ms (Views: 9.3ms | ActiveRecord: 0.1ms | Allocations: 1984)
+
+
+Started GET "/pessoas/new" for 45.176.58.59 at 2023-05-19 16:04:04 +0000
+Cannot render console from 45.176.58.59! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PessoasController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pessoas/new.html.erb within layouts/application
+  [1m[36mEstado Load (0.1ms)[0m  [1m[34mSELECT "estados".* FROM "estados"[0m
+  ↳ app/views/pessoas/_form.html.erb:21
+  Rendered pessoas/_form.html.erb (Duration: 5.4ms | Allocations: 2508)
+  Rendered pessoas/new.html.erb within layouts/application (Duration: 9.2ms | Allocations: 2830)
+  Rendered layout layouts/application.html.erb (Duration: 11.0ms | Allocations: 3893)
+Completed 200 OK in 21ms (Views: 11.9ms | ActiveRecord: 0.8ms | Allocations: 7052)
+
+
+Started GET "/pessoas/new" for 186.215.208.9 at 2023-05-19 16:04:06 +0000
+Cannot render console from 186.215.208.9! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PessoasController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pessoas/new.html.erb within layouts/application
+  [1m[36mEstado Load (0.1ms)[0m  [1m[34mSELECT "estados".* FROM "estados"[0m
+  ↳ app/views/pessoas/_form.html.erb:21
+  Rendered pessoas/_form.html.erb (Duration: 9.7ms | Allocations: 1399)
+  Rendered pessoas/new.html.erb within layouts/application (Duration: 10.8ms | Allocations: 1498)
+  Rendered layout layouts/application.html.erb (Duration: 12.4ms | Allocations: 2462)
+Completed 200 OK in 16ms (Views: 15.4ms | ActiveRecord: 0.1ms | Allocations: 2838)
+
+
+Started POST "/pessoas" for 45.176.58.59 at 2023-05-19 16:04:08 +0000
+Cannot render console from 45.176.58.59! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PessoasController#create as HTML
+  Parameters: {"authenticity_token"=>"[FILTERED]", "pessoa"=>{"nome"=>"Laiz", "estado_id"=>"1"}, "commit"=>"Create Pessoa"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/pessoas_controller.rb:27:in `block in create'
+  [1m[36mEstado Load (0.1ms)[0m  [1m[34mSELECT "estados".* FROM "estados" WHERE "estados"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/pessoas_controller.rb:27:in `block in create'
+  [1m[36mPessoa Create (0.4ms)[0m  [1m[32mINSERT INTO "pessoas" ("nome", "created_at", "updated_at", "estado_id") VALUES (?, ?, ?, ?)[0m  [["nome", "Laiz"], ["created_at", "2023-05-19 16:04:08.484581"], ["updated_at", "2023-05-19 16:04:08.484581"], ["estado_id", 1]]
+  ↳ app/controllers/pessoas_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (27.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/pessoas_controller.rb:27:in `block in create'
+Redirected to https://pessoaestado.laizoliveira.repl.co/pessoas/1
+Completed 302 Found in 58ms (ActiveRecord: 28.4ms | Allocations: 9108)
+
+
+Started GET "/pessoas/1" for 45.176.58.59 at 2023-05-19 16:04:08 +0000
+Cannot render console from 45.176.58.59! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PessoasController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPessoa Load (0.2ms)[0m  [1m[34mSELECT "pessoas".* FROM "pessoas" WHERE "pessoas"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/pessoas_controller.rb:63:in `set_pessoa'
+  Rendering layout layouts/application.html.erb
+  Rendering pessoas/show.html.erb within layouts/application
+  Rendered pessoas/_pessoa.html.erb (Duration: 0.4ms | Allocations: 169)
+  Rendered pessoas/show.html.erb within layouts/application (Duration: 5.2ms | Allocations: 1122)
+  Rendered layout layouts/application.html.erb (Duration: 6.7ms | Allocations: 2162)
+Completed 200 OK in 14ms (Views: 7.4ms | ActiveRecord: 0.2ms | Allocations: 3700)
+
+
+Started GET "/pessoas" for 45.176.58.59 at 2023-05-19 16:04:10 +0000
+Cannot render console from 45.176.58.59! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PessoasController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pessoas/index.html.erb within layouts/application
+  [1m[36mPessoa Load (0.1ms)[0m  [1m[34mSELECT "pessoas".* FROM "pessoas"[0m
+  ↳ app/views/pessoas/index.html.erb:6
+  Rendered pessoas/_pessoa.html.erb (Duration: 0.1ms | Allocations: 21)
+  [1m[36mEstado Load (0.1ms)[0m  [1m[34mSELECT "estados".* FROM "estados" WHERE "estados"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/pessoas/index.html.erb:14
+  Rendered pessoas/index.html.erb within layouts/application (Duration: 6.9ms | Allocations: 1567)
+  Rendered layout layouts/application.html.erb (Duration: 9.0ms | Allocations: 2539)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.3ms | Allocations: 2869)
+
+
+Started GET "/pessoas/1" for 177.10.57.228 at 2023-05-19 16:04:11 +0000
+Cannot render console from 177.10.57.228! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PessoasController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mPessoa Load (0.1ms)[0m  [1m[34mSELECT "pessoas".* FROM "pessoas" WHERE "pessoas"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/pessoas_controller.rb:63:in `set_pessoa'
+  Rendering layout layouts/application.html.erb
+  Rendering pessoas/show.html.erb within layouts/application
+  Rendered pessoas/_pessoa.html.erb (Duration: 0.1ms | Allocations: 21)
+  Rendered pessoas/show.html.erb within layouts/application (Duration: 1.4ms | Allocations: 392)
+  Rendered layout layouts/application.html.erb (Duration: 17.0ms | Allocations: 1343)
+Completed 200 OK in 23ms (Views: 21.4ms | ActiveRecord: 0.1ms | Allocations: 2143)
+
+
+Started OPTIONS "*" for 172.31.196.1 at 2023-07-10 20:30:33 +0000
+Cannot render console from 172.31.196.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (20.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [OPTIONS] "/*"):
+  
+Started GET "/" for 45.176.58.179 at 2023-07-10 20:36:04 +0000
+Cannot render console from 45.176.58.179! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (5.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 2.0ms | Allocations: 712)
+Completed 200 OK in 14ms (Views: 4.6ms | ActiveRecord: 0.0ms | Allocations: 6423)
+
+
+Started GET "/pessoa" for 45.176.58.179 at 2023-07-10 20:36:41 +0000
+Cannot render console from 45.176.58.179! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/pessoa"):
+  
+Started GET "/pessoas" for 45.176.58.179 at 2023-07-10 20:36:48 +0000
+Cannot render console from 45.176.58.179! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by PessoasController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering pessoas/index.html.erb within layouts/application
+  [1m[36mPessoa Load (0.8ms)[0m  [1m[34mSELECT "pessoas".* FROM "pessoas"[0m
+  ↳ app/views/pessoas/index.html.erb:6
+  Rendered pessoas/_pessoa.html.erb (Duration: 0.8ms | Allocations: 238)
+  [1m[36mEstado Load (0.6ms)[0m  [1m[34mSELECT "estados".* FROM "estados" WHERE "estados"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/views/pessoas/index.html.erb:14
+  Rendered pessoas/index.html.erb within layouts/application (Duration: 43.8ms | Allocations: 14634)
+  Rendered layout layouts/application.html.erb (Duration: 160.2ms | Allocations: 34981)
+Completed 200 OK in 176ms (Views: 160.8ms | ActiveRecord: 2.7ms | Allocations: 39030)
+
+
+Started GET "/" for 45.176.58.179 at 2023-07-10 20:45:35 +0000
+Cannot render console from 45.176.58.179! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as */*
+  Rendering .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered .bundle/ruby/3.0.0/gems/railties-7.0.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 61.2ms | Allocations: 390)
+Completed 200 OK in 67ms (Views: 64.3ms | Allocations: 1325)
+
+

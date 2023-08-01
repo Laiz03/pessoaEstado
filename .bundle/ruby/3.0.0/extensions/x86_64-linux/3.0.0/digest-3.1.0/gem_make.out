@@ -1,0 +1,18 @@
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/digest-3.1.0/ext/digest/sha2
+/nix/store/nv8k6c8503cbs1z5j9x39bmg69f56xbm-ruby-3.0.3/bin/ruby -I /nix/store/nv8k6c8503cbs1z5j9x39bmg69f56xbm-ruby-3.0.3/lib/ruby/3.0.0 -r ./siteconf20220324-71-l5g8g6.rb extconf.rb
+checking for u_int8_t... yes
+checking for sys/cdefs.h... yes
+creating Makefile
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/digest-3.1.0/ext/digest/sha2
+make DESTDIR\= clean
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/digest-3.1.0/ext/digest/sha2
+make DESTDIR\=
+compiling sha2init.c
+compiling sha2.c
+linking shared-object digest/sha2.so
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/digest-3.1.0/ext/digest/sha2
+make DESTDIR\= install
+/nix/store/jd1y449cf66yx5d1hwyjvc4562b1p1am-coreutils-9.0/bin/install -c -m 0755 sha2.so ./.gem.20220324-71-klianv/digest

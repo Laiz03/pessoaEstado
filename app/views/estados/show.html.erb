@@ -1,0 +1,10 @@
+<p style="color: green"><%= notice %></p>
+
+<%= render @estado %>
+
+<div>
+  <%= link_to "Edit this estado", edit_estado_path(@estado) %> |
+  <%= link_to "Back to estados", estados_path %>
+
+  <%= button_to "Destroy this estado", @estado, method: :delete %>
+</div>

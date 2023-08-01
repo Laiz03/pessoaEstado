@@ -1,0 +1,20 @@
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/io-console-0.5.11/ext/io/console
+/nix/store/nv8k6c8503cbs1z5j9x39bmg69f56xbm-ruby-3.0.3/bin/ruby -I /nix/store/nv8k6c8503cbs1z5j9x39bmg69f56xbm-ruby-3.0.3/lib/ruby/3.0.0 -r ./siteconf20220324-71-eh84uv.rb extconf.rb
+checking for termios.h... yes
+checking for cfmakeraw() in termios.h... yes
+checking for sys/ioctl.h... yes
+checking for HAVE_RUBY_FIBER_SCHEDULER_H... no
+checking for rb_scheduler_timeout()... no
+creating Makefile
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/io-console-0.5.11/ext/io/console
+make DESTDIR\= clean
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/io-console-0.5.11/ext/io/console
+make DESTDIR\=
+compiling console.c
+linking shared-object io/console.so
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/io-console-0.5.11/ext/io/console
+make DESTDIR\= install
+/nix/store/jd1y449cf66yx5d1hwyjvc4562b1p1am-coreutils-9.0/bin/install -c -m 0755 console.so ./.gem.20220324-71-ot5aln/io

@@ -1,0 +1,17 @@
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+/nix/store/nv8k6c8503cbs1z5j9x39bmg69f56xbm-ruby-3.0.3/bin/ruby -I /nix/store/nv8k6c8503cbs1z5j9x39bmg69f56xbm-ruby-3.0.3/lib/ruby/3.0.0 -r ./siteconf20220324-71-65cvxg.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\=
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/runner/Rails/.bundle/ruby/3.0.0/gems/racc-1.6.0/ext/racc/cparse
+make DESTDIR\= install
+/nix/store/jd1y449cf66yx5d1hwyjvc4562b1p1am-coreutils-9.0/bin/install -c -m 0755 cparse.so ./.gem.20220324-71-d3zr6o/racc
